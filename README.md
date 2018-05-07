@@ -1,7 +1,6 @@
-# springcloud
-从零开始学习springcloud
- 1.服务的注册和调用
-  2.断路器
+## 从零开始学习springcloud
+  1.服务的注册和调用
+  2.断路器
   3.路由网关
   4.分布式配置中心
   5.消息总线
@@ -36,6 +35,7 @@
 
     10.服务注册(consul):它是一个提供服务发现和配置的工具,consul具有分布式、高可用、高扩展性。
     
-    感谢以上学习资源来自：https://blog.csdn.net/forezp/article/details/70148833和http://www.ityouknow.com/spring-cloud.html
+    感谢以上学习资源来自：https://blog.csdn.net/forezp/article/details/70148833
+				 																			http://www.ityouknow.com/spring-cloud.html
 
  
