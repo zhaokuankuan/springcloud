@@ -1,0 +1,9 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/   #设置与Eureka Server交互的地址，查询服务和注册服务都需要依赖这个
+server:
+  port: 8763
+spring:
+  application:
+    name: service-hi  #是指定进行服务注册时该服务的名称
