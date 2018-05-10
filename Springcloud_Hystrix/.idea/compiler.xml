@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="feign" />
+        <module name="ribbon" />
+        <module name="server" />
+        <module name="service" />
+        <module name="Springcloud_Hystrix" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="feign" target="1.8" />
+      <module name="ribbon" target="1.8" />
+      <module name="server" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="Springcloud_Hystrix" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
