@@ -12,7 +12,7 @@ spring:
           uri: https://github.com/zhaokuankuan/springcloud/ #配置仓库的地址
           search-paths: resp                               #配置数据访问仓库
           username: 935068797@qq.com                        #配置git的名称
-          password: zhao1314                                #配置git的密码
+          password: ********                                #配置git的密码
       label: master                                          #配置git的分支
 server:
   port: 8762
